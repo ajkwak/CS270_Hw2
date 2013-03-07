@@ -48,6 +48,17 @@ table#movies th, table#movies td {
   padding: 4px;
   text-align: left;
 }
+/* Mar 3 Hw3 1.b */
+table#movies th.hilite {
+  background-color: yellow;
+}
+table#movies th#title_header {
+  /*Nothing yet*/
+}
+table#movies th#release_date_header {
+  /*Nothing yet*/
+}
+/*----------------*/
 #notice #warning {
   background: rosybrown;
   margin: 1em 0;
